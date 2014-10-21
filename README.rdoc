@@ -1,0 +1,16 @@
+== Getting Started
+
+=== every 5 minutes
+ * get up to 30 donation.created events
+ * process each donation within 10 seconds
+  * ring bell for 3 seconds
+  * print "$50 Donation to Mercyships by Bryan Shanaver" (or similar)
+
+
+=== URL
+* bell.donately.com/default?count=30
+** www.dntly.com/api/v1/donately/events.json?type=donation.created&count=1
+
+
+
+
